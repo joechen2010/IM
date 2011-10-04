@@ -1,0 +1,83 @@
+10
+
+dir
+12840
+http://svn.igniterealtime.org/svn/repos/spark/trunk/src/plugins/sip/src/java/org/jivesoftware/sparkplugin
+http://svn.igniterealtime.org/svn/repos
+
+
+
+2011-05-30T14:49:04.743669Z
+12435
+wolf.posdorfer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b35dd754-fafc-0310-a699-88a17e54d16e
+
+preferences
+dir
+
+phonebook
+dir
+
+SoftPhonePlugin.java
+file
+
+
+
+
+2011-09-27T05:34:04.218750Z
+9ce5251f724934ac9f2d405dc74bafe9
+2011-05-12T08:18:31.222705Z
+12374
+wolf.posdorfer
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9268
+
+components
+dir
+
+sipaccount
+dir
+
+callhistory
+dir
+
+calllog
+dir
+
+ui
+dir
+
